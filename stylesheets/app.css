@@ -1,0 +1,43 @@
+html {
+	font-size: 100%;
+}
+
+body {
+	font-family: Noticia Text, "Heiti-TC";
+}
+
+a {
+	color: #53519a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Courgette, Helvetica;
+}
+
+h2 {
+	border-bottom: 1px solid #c93669;
+	padding-left: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+.jumbotron {
+	background-color: #c93669;
+}
+
+.jumbotron h1 {
+	color: white;
+}
+
+.jumbotron h3 {
+	color: rgba(256,256,256,0.8);
+}
+
+.items {
+	font-size: 1.2em;
+	line-height: 2.4em;
+}
+
+footer {
+	margin-top: 2em;
+	line-height: 2.4em;
+}
